@@ -12,7 +12,7 @@ per WAN port and a timeline for troubleshooting Wi-Fi issues.
 
 I’ve shared the source code under the **MIT License** so others can build
 on it. If you have an idea, feel free to develop it in your own fork or
-suggest a change through a pull request.
+suggest a change through a pull request. (Special thanks to codex :-))
 
 [Install with Docker and Portainer](https://github.com/wolfgangkiefer1006/omada-inside#portainer-mit-github-verbinden) ·
 [Releases](https://github.com/wolfgangkiefer1006/omada-inside/releases)
@@ -36,7 +36,7 @@ WLAN-Fehlersuche.
 Ich stelle den Quellcode unter der **MIT-Lizenz** zur Verfügung, damit
 andere darauf aufbauen können. Wer eine Idee dafür hat, kann die App
 im eigenen Fork weiterentwickeln oder eine Änderung per Pull Request
-vorschlagen.
+vorschlagen. (Mit bestem Dank an Codex)
 
 [Installation mit Docker und Portainer](https://github.com/wolfgangkiefer1006/omada-inside#portainer-mit-github-verbinden) ·
 [Releases](https://github.com/wolfgangkiefer1006/omada-inside/releases)
